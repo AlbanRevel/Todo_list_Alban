@@ -1,0 +1,21 @@
+
+
+Bienvenue dans la rubrique aide
+
+Remarques generales:
+
+Navigation dans les choix: naviguer avec les fleches du clavier, cliquer sur espace pour selectionner, entrer pour confirmer
+Choix multiples: il ne faut choisir qu'une option parmis les differents choix 
+
+Voici les fonctionnalites du logiciel:
+
+Créer une tache: permet d'ajouter une tache à votre liste de Taches
+
+Supprimer une tache: permet de retirer une tache de votre liste
+
+Modifier une tache: permet de modifier une tache deja creee (changer l'avancement, la priorite, ajouter des sous-taches, etc...)
+consulter si besoin la rubrique d'aide dediee
+
+Lister les taches: permet de voir lister les taches, eventuellement selon certain criteres de priorite
+
+Alban Revel
